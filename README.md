@@ -1,2 +1,1 @@
-# Java-Learning-Note
-Java Learning Note
+这是一个Java学习笔记，记录于2025年4月4日
