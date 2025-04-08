@@ -110,7 +110,7 @@ System.out.println("itheima"+ 666); // 输出：itheima666
 **在”+”操作中，如果出现了字符串，就是连接运算符，否则就是算术运算**。当连续进行“+”操作时，从左到右逐个执行。
 
 ~~~java
-System.out.println(1 + 99 + "年黑马"); // 输出：199年黑马
+System.out.println(1 + 99 + "年黑马"); // 输出：100年黑马
 System.out.println(1 + 2 + "itheima" + 3 + 4); // 输出：3itheima34
 // 可以使用小括号改变运算的优先级 
 System.out.println(1 + 2 + "itheima" + (3 + 4)); // 输出：3itheima7
